@@ -11,7 +11,7 @@
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "format": "prettier . --write",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "next": "14.2.14",
